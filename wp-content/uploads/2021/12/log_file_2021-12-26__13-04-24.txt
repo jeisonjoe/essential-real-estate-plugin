@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://www.ammuthemes.com/real-estate-salient
+Data file = /var/www/vhosts/ammuthemes.com/httpdocs/wp-content/themes/real-estate-salient-pro/demo/demo11.xml
+Widget file = /var/www/vhosts/ammuthemes.com/httpdocs/wp-content/themes/real-estate-salient-pro/demo/demo11.wie
+Customizer file = /var/www/vhosts/ammuthemes.com/httpdocs/wp-content/themes/real-estate-salient-pro/demo/demo11.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2021-11-28__13-44-52" (Media)
+
+
+---Importing widgets---
+Sidebar widgets : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+ERE Featured Properties - No Title - Imported
+ERE Mortgage Calculator - Mortgage Calculator - Imported
+ERE Search Form - Search Form - Imported
+ERE Top Agents - Top Agents - Imported
+ERE Listing Property Taxonomy - No Title - Imported
+
+Footer Widget Left : 
+
+Text - About Us - Imported
+Search - No Title - Imported
+
+Footer Widget Middle : 
+
+Recent Comments - No Title - Imported
+
+Footer Widget Right : 
+
+Gallery - Our best agents - Imported
+Text - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
